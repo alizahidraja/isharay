@@ -1,4 +1,6 @@
 # Isharay
+![Isharay](media/logo.png)
+
 Sign Language Translator
 
 
